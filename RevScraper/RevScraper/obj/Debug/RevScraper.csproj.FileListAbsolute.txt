@@ -1,0 +1,11 @@
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\RevScraper.exe.config
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\RevScraper.exe
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\RevScraper.pdb
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\HtmlAgilityPack.dll
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\HtmlAgilityPack.pdb
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\bin\Debug\HtmlAgilityPack.xml
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\obj\Debug\RevScraper.csprojAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\obj\Debug\RevScraper.csproj.CoreCompileInputs.cache
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\obj\Debug\RevScraper.csproj.CopyComplete
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\obj\Debug\RevScraper.exe
+d:\documents\visual studio 2017\Projects\RevScraper\RevScraper\obj\Debug\RevScraper.pdb
